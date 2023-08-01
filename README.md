@@ -1,4 +1,4 @@
-<center> Feito pelo <a href="https://www.linkedin.com/in/eucesarmoura/" > César de Moura </a></center>
+<center> Feito pelo <a href="https://www.linkedin.com/in/eucesarmoura/" > César de Moura </a> </center> <br>
 
 <center> 31 de julho de 2023 </center>
 
