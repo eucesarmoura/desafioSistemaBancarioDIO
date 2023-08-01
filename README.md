@@ -25,7 +25,6 @@ Para isso, desenvolvi um código na pasta <strong>resolução.py</strong> que:
 2. Processa a operação solicitada e volta ao menu novamente.
 
 <br>
-<br>
 
 
 ***
